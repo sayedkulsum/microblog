@@ -1,4 +1,4 @@
-aiosmtpd==1.4.6
+aiosmtpd==1.4.2
 alembic==1.16.5
 atpublic==6.0.1
 attrs==25.3.0
